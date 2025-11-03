@@ -1,5 +1,4 @@
 # QR Code Generator
-===================================
 
 Usage:
 1. python3 qr_app.py
